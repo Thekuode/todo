@@ -1,4 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+https://thekuode.github.io/todo/
+To do. harjoittelen reactia ja sen frameworkkeja.
+seuraavaksi olisi tarkoitus, että kun sivun lataa uudelleen niin muutokset jäävät.
 
 ## Getting Started
 
