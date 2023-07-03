@@ -6,7 +6,7 @@ export default function Home() {
   const [tasks, setTasks] = useState(["Reactin opettelua", "Tailwindin opettelua", "Kun kaikki hanskassa jatketaan backendiin"]);
   const [item, setItem] = useState("");
 
-  function removeItem(taskName){
+  function removeItem(taskName: string){
     setTasks(tasks.filter(task => {
       return task != taskName
     })
